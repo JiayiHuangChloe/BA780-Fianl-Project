@@ -1,2 +1,3 @@
 # BA780-Fianl-Project
-Team B01: Rohit Devanaboina, Yifan Fan, Riris Grace, Jiayi Huang, Shailoz Kumar Singh
+Project Topic: Boston 311 Service Request and Resolution Analysis
+Team B01: Rohit Devanaboina (Project Manager), Yifan Fan, Riris Grace, Jiayi Huang, Shailoz Kumar Singh
